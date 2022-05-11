@@ -1,6 +1,7 @@
 [//]: # (Image References)
 
 [image1]: https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif "Trained Agent"
+[image2]: img/result.JPG "Graph"
 
 # Report
 
@@ -21,7 +22,6 @@ The task is episodic, and in order to solve the environment, your agent must get
 The learning algorithm is implemented in the files `Continuous_Control.ipynb` and `ddpg_agent.py`. Once the agent solves the environment with an average score of **`+30`** over **`100`** consecutive episodes, the actor network and critic network are saved in the files `checkpoint_actor.pth` and `checkpoint_critic.pth`, respectively.
 
 ## Deep Deterministic Policy Gradients (DDPG)
-
 
 ## Results
 
