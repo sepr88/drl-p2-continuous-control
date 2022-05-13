@@ -13,8 +13,8 @@ BUFFER_SIZE=int(1e6)
 BATCH_SIZE=128
 GAMMA=0.99
 TAU=1e-3
-LR_ACTOR=1e-3
-LR_CRITIC=1e-3
+LR_ACTOR=1e-4
+LR_CRITIC=1e-4
 WEIGHT_DECAY=0
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
