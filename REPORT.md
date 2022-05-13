@@ -43,7 +43,7 @@ WEIGHT_DECAY = 0
 
 ### Results
 
-Training finished in **`118`** episodes with an average score of **`37.47`** over the recent **`100`** consecutive episodes.
+Training finished in **`125`** episodes with an average score of **`30.18`** over the recent **`100`** consecutive episodes.
 
 ![Graph][image2]
 
